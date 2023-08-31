@@ -1,0 +1,40 @@
+# Foundations Assessment 1 - Practice
+
+**Do not share this repo or post any parts of it publicly. App Academy will take
+violations very seriously.**
+
+You have **45 minutes** to complete this assessment.
+
+## Usage
+
+1. `cd` into the project root directory.
+2. `bundle install` to install dependencies.
+3. `bundle exec rspec` to run all tests.
+
+* To run one specific spec, add `:<line_number>` at the end. For example:
+  `bundle exec rspec spec/practice_assessment_1_spec.rb:8`
+
+## Passing score
+
+The passing score for this assessment is 10/13 specs.
+The allotted time for this assessment is 45 minutes.
+
+## Objective
+
+Your objective is to pass all 13 test specs provided by writing code in the
+__lib/__ files. You can view the test cases in the __spec/__ directory.
+
+## Submission (only needed for actual assessments)
+
+* Save your files.
+* Rename the directory `firstname_lastname` using your actual name.
+* ZIP it.
+  * On Macs, right-click the folder and select 'Compress'.
+  * Use the __.zip__ format; no boutique formats please! :-)
+* Upload to Progress Tracker ([https://progress.appacademy.io/]).
+
+[https://progress.appacademy.io/]: https://progress.appacademy.io/
+
+Good luck!
+
+**Copyright App Academy. Please do not post online.**
